@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "nombre": "Carlos",
+      "apellido": "Ramírez",
+      "cargo": "Desarrollador Frontend",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "apellido": "Gonzales",
+      "cargo": "Diseñadora UX/UI",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Luis",
+      "apellido": "Mendoza",
+      "cargo": "Project Manager",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "María",
+      "apellido": "Suárez",
+      "cargo": "Desarrolladora Backend",
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Javier",
+      "apellido": "Pérez",
+      "cargo": "Analista de Datos",
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Sofía",
+      "apellido": "López",
+      "cargo": "Desarrolladora Full Stack",
+      "activo": false
+    },
+    {
+      "id": 7,
+      "nombre": "Diego",
+      "apellido": "Torres",
+      "cargo": "Administrador de Sistemas",
+      "activo": true
+    },
+    {
+      "id": 8,
+      "nombre": "Valentina",
+      "apellido": "Martínez",
+      "cargo": "Especialista en SEO",
+      "activo": false
+    },
+    {
+      "id": 9,
+      "nombre": "Andrés",
+      "apellido": "Hernández",
+      "cargo": "Desarrollador de Aplicaciones Móviles",
+      "activo": true
+    },
+    {
+      "id": 10,
+      "nombre": "Camila",
+      "apellido": "García",
+      "cargo": "Ingeniera de Soporte Técnico",
+      "activo": false
+    },
+    {
+      "id": 11,
+      "nombre": "Fernando",
+      "apellido": "Cruz",
+      "cargo": "Arquitecto de Software",
+      "activo": true
+    },
+    {
+      "id": 12,
+      "nombre": "Natalia",
+      "apellido": "Ríos",
+      "cargo": "Gerente de Marketing",
+      "activo": false
+    },
+    {
+      "id": 13,
+      "nombre": "Ricardo",
+      "apellido": "Salazar",
+      "cargo": "Desarrollador de Juegos",
+      "activo": true
+    },
+    {
+      "id": 14,
+      "nombre": "Isabella",
+      "apellido": "Córdoba",
+      "cargo": "Investigadora de Mercado",
+      "activo": false
+    },
+    {
+      "id": 15,
+      "nombre": "Sebastián",
+      "apellido": "Pineda",
+      "cargo": "Ingeniero de Redes",
+      "activo": true
+    }
+  ]
+  

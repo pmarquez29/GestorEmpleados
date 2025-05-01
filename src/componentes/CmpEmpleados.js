@@ -8,14 +8,20 @@ if (!empleados || empleados.length === 0) {
     return <p>No hay empleados disponibles.</p>;
 }
     return (
-            <div>
-                <h2>Lista de Empleados</h2>
-                    {empleados.map((empleado) => (
-                    <CmpEmpleado key={empleado.id} empleado={empleado}
-                    cambiarEstado={cambiarEstado} />
+        <div>
+        <h2>Lista de Empleados</h2>
+            <div className="empleados-container">
+                {empleados.map((empleado) => (
+                <CmpEmpleado
+                    key={empleado.id}
+                    empleado={empleado}
+                    cambiarEstado={cambiarEstado}
+                />
                 ))}
             </div>
-            );
+        </div>
+    );
+  
         }
     }
     export default CmpEmpleados;

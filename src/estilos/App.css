@@ -56,3 +56,10 @@
     margin: 10px;
     font-size: 16px;
   }
+
+  .empleados-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
